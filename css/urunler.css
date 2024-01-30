@@ -1,0 +1,17 @@
+.showcase {
+  display: inline-block;
+  margin-right: 35px; /* Sağa boşluk ekleyin */
+  margin-left: 35px;
+  margin-bottom: 50px; /* Aşağıya boşluk ekleyin */
+  width: calc(
+    25% - 20px
+  ); /* Elemanın genişliğini ayarlayın, sağ boşluğu da dikkate alın */
+}
+
+.showcase:nth-child(3n) {
+  margin-right: 200; /* Her dördüncü elemana sağa boşluk ekleme */
+}
+
+.productContainer {
+  background-color: #fff;
+}

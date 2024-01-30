@@ -1,0 +1,33 @@
+/*! global css */
+
+@import url(base.css);
+
+/*! layout */
+
+@import url(layout/header.css);
+
+/*! component */
+
+@import url(component/modal-search.css);
+@import url(component/slider.css);
+@import url(component/category-item.css);
+
+/*! pages */
+
+@import url(pages/home.css);
+
+/*! hakkımızda */
+
+@import url(hakkımızda.css);
+
+/*! ürünlerimiz */
+
+@import url(urunler.css);
+
+/*! contact */
+
+@import url(contact.css);
+
+/*! footer */
+
+@import url(footer.css);

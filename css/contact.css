@@ -1,0 +1,17 @@
+.col-12-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Sayfa yüksekliği kadar */
+}
+
+.list-group {
+  text-align: center;
+}
+
+.list-group img {
+  max-width: 600px; /* Maksimum genişlik */
+  max-height: 600px; /* Maksimum yükseklik */
+  width: auto; /* Genişlik otomatik ayarlanır */
+  height: auto; /* Yükseklik otomatik ayarlanır */
+}
